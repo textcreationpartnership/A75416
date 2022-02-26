@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to a speech without doores: or, Animadversions upon an unsafe and dangerous answer to the Scotch-papers, printed under the name of Mr. Challener his speech, which while it offereth to reach a blow at the Scotch-papers, doth indeed strike at the honour of the Parliament, and interest of the kingdome of England.</title>
+            <author>Birkenhead, John, Sir, 1616-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75416</idno>
+            <idno type="STC">Wing A3351A</idno>
+            <idno type="STC">Thomason E362_9</idno>
+            <idno type="STC">ESTC R201213</idno>
+            <idno type="EEBO-CITATION">99861745</idno>
+            <idno type="PROQUEST">99861745</idno>
+            <idno type="VID">160038</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160038)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E362[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to a speech without doores: or, Animadversions upon an unsafe and dangerous answer to the Scotch-papers, printed under the name of Mr. Challener his speech, which while it offereth to reach a blow at the Scotch-papers, doth indeed strike at the honour of the Parliament, and interest of the kingdome of England.</title>
+                  <author>Birkenhead, John, Sir, 1616-1679.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Sir John Birkenhead.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 16th 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chaloner, Thomas, 1595-1661. --  Answer to the Scotch papers.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:160038:1" rendition="simple:additions"/>
+            <head>AN ANSVVER TO A Speech without Doores: OR, ANIMADVERSIONS Upon an unſafe and dangerous An<g ref="char:EOLhyphen"/>ſwer to the Scotch-Papers, printed under the name of M<hi rend="sup">r</hi>. <hi>Challener</hi> his Speech, which while it offereth to reach a blow at the Scotch-Papers, doth indeed ſtrike at the honour of the PARLIAMENT, and intereſt of the Kingdome of ENGLAND.</head>
+            <q>
+               <bibl>PROV. 28. 2.</bibl> For the tranſgreſsion of a Land, many are the Princes thereof.</q>
+            <p>IF any ſhall aske, Who art thou and what meaneſt thou? I ſhall not make my Anſwer ſo wide as <hi>Di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes</hi> did; I am not onely <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, yea, I will yet take me to a narrower compaſſe. I am one who have adhered to the Parliament all along from the very beginning of the war, and I have ſerved them faithfully in their loweſt condition, re<g ref="char:EOLhyphen"/>ſolving ſtill to be for them, in that which is juſt and right, a<g ref="char:EOLhyphen"/>gainſt any perſon or Nation in the world: And as to my mea<g ref="char:EOLhyphen"/>ning
+<pb n="2" facs="tcp:160038:2"/> in this particular, tis not to write in defence of the Scotch Papers (let their Papers ſpeake for themſelves) if they can; and if they cannot, I have nothing to ſay for them, and however I will not <hi>ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dre in illorum verb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> but I write in defence of the Honour of the Parliament, and of the Intereſt of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> which have received a dangerous wound by this printed Paper, which comes abroad as a Speech ſpoken by M<hi rend="sup">r</hi> 
+               <hi>Challe<g ref="char:EOLhyphen"/>nor</hi> in the Houſe of Commons. I doe not preſume to examine or at all to intermeddle in any thing ſpoken within thoſe wals, I ſpeake to the printed Paper, which for any thing I know may be ſuppoſititious, or at leaſt different from the Originall. Sure (if I miſ-heard not) tis not printed as it was ſpoken in the Houſe, (which yet is pretended in the Title Page) elſe what is become of the Dog that is not worth the whiſtling after? and what is become of that other paſſage concerning the debate at a Comedy in <hi>Oxford,</hi> concerning the fitteſt place for erecting the Kings Throne? the determination whereof was ſo difficult, that ſome thought it beſt, not to erect it at all. Whatever was ſpoken in the Houſe, I ſuppoſe tis no Priviledge of a Member of Parliament to print what he liſt againſt the Honour of the Parliament and Intereſt of the Kingdome: neither can it be a breach of the Priviledge of a Member, and much leſſe the breach of a Priviledge of Parliament, to vindicate the Honour and In<g ref="char:EOLhyphen"/>tereſt of Parliament, which is my preſent worke, and ſo I come to it, without further prefacing.</p>
+            <p>My Animadverſions upon the Paper are theſe. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irſt of all it preſenteth to the view of the world, a champion coming forth <hi>Goliah-like</hi> for the Parliament; but ſtumbling wofully in the very beginning of his diſpute. It draweth together three large ſheets of the Scotch Papers into this ſyllogiſme.</p>
+            <q>
+               <p>
+                  <hi>Whereſoever the Kingdome of</hi> Scotland <hi>hath an intereſt in their King, there they may diſpoſe of him.</hi>
+               </p>
+               <p>
+                  <hi>But the Kingdome of</hi> Scotland <hi>hath an intereſt in their King he being in</hi> England.</p>
+               <p>
+                  <hi>Therefore in</hi> England <hi>they may diſpoſe of him.</hi>
+               </p>
+            </q>
+            <p>The Paper runnes along in anſwer to this Syllogiſme, and here is a man of ſtraw ſet up to be buffeted. I will concurre
+<pb n="3" facs="tcp:160038:2"/> with M<hi rend="sup">r</hi> 
+               <hi>Challenor</hi> to denie this Argument, but all this while the Scotch Paper eſcapeth ſcot-free; there is no ſuch Argument in their Paper, neither for matter nor forme: they doe not ſay that either this Kingdome or their owne may diſpoſe of the King, but that it belongeth to both Kingdomes to diſpoſe of him. And if there muſt needs be a Syllogiſticall arguing and anſwering, their Argument ought to have been ſtated thus.</p>
+            <q>
+               <p>Whatſoever is by Covenant, Treaty, and the very Law of Na<g ref="char:EOLhyphen"/>tions of joynt intereſt and common concernment to both King<g ref="char:EOLhyphen"/>domes, ought not to be diſpoſed of but by the mutuall advice and conſent of both Kingdomes for the good of both.</p>
+               <p>
+                  <hi>But the perſon of the King, whether in</hi> England <hi>or</hi> Scotland, <hi>is by Covenant, Treaty, and the very Law of Nations, of joynt intereſt, and common concernment to both Kingdomes.</hi>
+               </p>
+               <p>
+                  <hi>Therefore the Perſon of the King, whether in</hi> England <hi>or</hi> Scot<g ref="char:EOLhyphen"/>land, <hi>ought not to be diſpoſed of, but by the mutuall advice and conſent of both Kingdomes, for the good of both.</hi>
+               </p>
+            </q>
+            <p>This is the ſumme of what the Scotch Papers ſay, as to this point which is there proſecuted and endeavoured, to be pro<g ref="char:EOLhyphen"/>ved by parts: but whether it was for the Honour of the Parlia<g ref="char:EOLhyphen"/>ment, that one of their Members ſhould Anſwer what the Scotch ſay not, and not Anſwer what they ſay, let rationall men judge.</p>
+            <p>To no better purpoſe is that diſtinction, <hi>Pag.</hi> 4. 5. of the King in <hi>Abſtracto,</hi> and the King in <hi>Concreto:</hi> which (beſide that it maketh <hi>Perſona</hi> to be <hi>Concretum,</hi> I know not by what rule of Logicke) doth plainly begge from the Scotch what is in que<g ref="char:EOLhyphen"/>ſtion. For the Scotch Papers doe ſtate the queſtion (as the Vote of the honourable Houſes, September 24. had done be<g ref="char:EOLhyphen"/>fore them) not upon the Authority, Power, and Office of the King, but upon the Perſon of the King: and to this very pur<g ref="char:EOLhyphen"/>poſe are all their Arguments brought, to prove a joynt and equall intereſt of both Kingdomes in the Perſon of the King, which by Covenant they and we both are bound to defend and preſerve, as well as his Authority and juſt Power. But this pretended Anſwer, in ſtead of anſwering or confuting their
+<pb n="4" facs="tcp:160038:3"/> Arguments, denieth their Concluſion. Was this now for the Honour of the Parliament? Was it not?</p>
+            <p>I, but ſaith the Paper, <hi>Perſon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſequitur locum, and his Perſon muſt be diſpoſed of by the ſupreme Power of that Countrey, whereſo<g ref="char:EOLhyphen"/>ever he ſhall happen to abide.</hi> By this Principle forſooth the Per<g ref="char:EOLhyphen"/>ſon of the King of <hi>England,</hi> if he were in <hi>Scotland,</hi> muſt be diſ<g ref="char:EOLhyphen"/>poſed of by the ſupreme Power of that Countrey, without the advice and conſent of the Parliament of <hi>England:</hi> And was not this well pleaded for the intereſt of the Parliament and King<g ref="char:EOLhyphen"/>dome of <hi>England?</hi> I thinke not.</p>
+            <p>Within a few lines after I finde it ſaid, That the Kingdome of <hi>England,</hi> is as diſtinct in intereſts from <hi>Scotland,</hi> as <hi>Spaine:</hi> And is all our conjunction of intereſts in one Religion, one Covenant, one King, one Cauſe, one Warre, turned in end to no more but this? Then may <hi>Scotland</hi> make a Peace without the advice and conſent of the Kingdome of <hi>England,</hi> as well as <hi>Spaine</hi> may. Then alſo may <hi>Scotland</hi> enter into a Confederacy with a Forain Kingdome, without asking advice or conſent from this Kingdome, as well as <hi>Spaine</hi> may. And was not this well provided for the intereſt of <hi>England?</hi> was it? or was it not?</p>
+            <p>I turne over to <hi>Pag.</hi> 6. where I read thus,<q>
+                  <hi>I ſhall take this as granted for good Law, that let the Perſon of any Nation</hi> (that were I confeſſe <hi>Perſona Concreta) under the ſunne, which is in amity with</hi> England, <hi>happen to come into</hi> England, <hi>that perſon is forth<g ref="char:EOLhyphen"/>with a Subject of</hi> England: <hi>For he being protected by the Lawes of</hi> England, <hi>he becomes thereby ſubject to thoſe Lawes, &amp;c.</hi> 
+               </q>Then muſt any Ambaſſadour coming from another Kingdome or State, expect no ſufficient protection in <hi>England</hi> by the Law of Nations, but by the Lawes of <hi>England,</hi> without which pro<g ref="char:EOLhyphen"/>tection (as this Paper ſaith) <q>
+                  <hi>every man may kill him and deſtroy him,</hi>
+               </q> nor can he have ſuch protection except he become withall a Subject of <hi>England.</hi> And was not the Honour of the Parlia<g ref="char:EOLhyphen"/>ment and Kingdome of <hi>England</hi> in this well preſerved? Sure Foraine Nations will not thinke ſo.</p>
+            <p>
+               <q>
+                  <hi>It cannot be denied</hi> (ſaith the Paper) <hi>but there is a two-fold ſub<g ref="char:EOLhyphen"/>jection, Legall and Locall:—And this though it be onely,</hi> pro tem<g ref="char:EOLhyphen"/>pore,
+<pb n="5" facs="tcp:160038:3"/> 
+                  <hi>and the other during life; yet it doth for the time totally ob<g ref="char:EOLhyphen"/>ſtruct the operation of the other ſubjection: ſo that no King can com<g ref="char:EOLhyphen"/>mand any Subject of his living out of his Kingdome, but ſuch Sub<g ref="char:EOLhyphen"/>ject of his, is to be diſpoſed of by the ſole Authority of that ſupreme Power where he makes his reſidence.</hi> 
+               </q>By which rule, (being at leaſt equally applicable to any that are ſubject to the Parliament) when both Houſes ſend Commiſſioners into <hi>Scotland;</hi> theſe Commiſſioners muſt not be ſubject to the Orders and Com<g ref="char:EOLhyphen"/>mands of the Houſes of Parliament, but muſt be diſpoſed of by the ſole Authority of the ſupreme Power in that Kingdome. And is not this fine for the Honour of the Parliament? He that will make it ſtand with their Honour, <hi>Magnus mihi erit Apollo.</hi>
+            </p>
+            <p>But come on <hi>Pag.</hi> 7. <q>
+                  <hi>I doe affirme, that if a King of</hi> Scotland <hi>ſhould have come into</hi> England, <hi>before the union of both theſe King<g ref="char:EOLhyphen"/>domes, he had been inſtantly a Subject of</hi> England, <hi>and his perſon to be diſpoſed of by the ſole Authority of the Lawes of</hi> England. </q>By which Principle, the Prince of <hi>Wales</hi> now in <hi>France,</hi> is become a Subject of <hi>France,</hi> and his Perſon to be diſpoſed of by the ſole Authority of the Lawes of <hi>France;</hi> ſo that the King and Parliament have not Authority to recall him. And is not this a good ſalve for the Honour of the Parliament? O brave!</p>
+            <p>
+               <hi>Pag.</hi> 8. <q>
+                  <hi>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cannot admit of any regal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ty in the Perſon of a King of</hi> Scotland <hi>coming into</hi> England.<hi>—No man can be ſaid to be</hi> Rex <hi>but in</hi> Regno. </q>And by juſt Analogy the Parliament of <hi>England,</hi> cannot be acknowledged a Parliament but in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> only; neither can their Commiſſioners in any other King<g ref="char:EOLhyphen"/>dome or State, be admitted to propound, declare, treat, or con<g ref="char:EOLhyphen"/>clude in name of both Houſes. And is not this well look't un<g ref="char:EOLhyphen"/>to for the Honour of the Parliament? Is it not?</p>
+            <p>
+               <hi>Pag.</hi> 9. If they (the Scotch) be our fellows, why come they not to our Parliament? Therefore if it can be made to ap<g ref="char:EOLhyphen"/>peare that they are our fellowes, equalls, and brethren, they may come to our Parliaments. Loe here, how well the Privi<g ref="char:EOLhyphen"/>ledge of Parliament is preſerved?</p>
+            <p>Here followes alſo a Story of <hi>John</hi> King of <hi>England,</hi> cited as Duke of <hi>Normandy</hi> to appeare at <hi>Paris:</hi> Whereunto the Eng<g ref="char:EOLhyphen"/>liſh
+<pb n="6" facs="tcp:160038:4"/> replied; <hi>That if the Duke of Normandy did goe, the King of</hi> England <hi>muſt goe; and if the Duke of</hi> Normandy <hi>were beheaded, they knew well enough what would become of the King of</hi> England. It was reſolved by the Lawyers, that if <hi>John</hi> had been in <hi>Nor<g ref="char:EOLhyphen"/>mandy</hi> at the time of his ſummons, he ought to have appeared, but not ſo, being in <hi>England.</hi> Where beſide the vaſt diſpropor<g ref="char:EOLhyphen"/>tion of comparing the caſe of one who was King of one King<g ref="char:EOLhyphen"/>dome and Subject of another, with his caſe who is a free Mo<g ref="char:EOLhyphen"/>narch of two free Kingdomes; the Narration doth alſo ex<g ref="char:EOLhyphen"/>tremely ſtrengthen the Scotch Paper, which it pretendeth to oppoſe; for they anſwer the Engliſh now, juſt as the Engliſh did then anſwer the French; that is, If this preſent King of <hi>England</hi> muſt be diſpoſed of by the ſole Authority of both Houſes of Parliament, what ſhall then become of the Perſon of the King of <hi>Scotland?</hi> where is then the Scotch King <hi>in Con<g ref="char:EOLhyphen"/>creto?</hi> If the notion of a King <hi>in Abſtracto</hi> be ſufficient againſt the Scotch in this debate; ſure it was as ſtrong againſt the Engliſh then. Behold, what a rationall account is here given for the ſingle and ſole Authority of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to diſpoſe of the King of both Kingdoms! If this be well pleaded, I confeſſe I have loſt my judgement.</p>
+            <p>
+               <hi>Pag.</hi> 12. tells us the Kingdomes are now contending about the Kings Perſon, not who ſhould have it, but who ſhould not have it: Which reflecteth ſtrongly upon the Parliament, and will inferre that foraſmuch as they decline or ſhunne to have the Kings Perſon, either they did not wiſely, or not upright<g ref="char:EOLhyphen"/>ly, when they Voted that his Perſon is to be diſpoſed of as both Houſes ſhall thinke fit. And is not this much for the Ho<g ref="char:EOLhyphen"/>nour of Parliament? Is it not?</p>
+            <p>
+               <hi>Pag.</hi> 14. 'Tis deſired to be conſidered, whether (as the caſe now ſtands) <hi>The Kings ſafety be not incompatible with the ſafety of the Common-wealth?</hi> I will not here relate what is <hi>vox po<g ref="char:EOLhyphen"/>puli</hi> concerning that Gentlemans old diſcontents at the King; but I bleſſe my ſelfe to thinke where we now are, when after ſo many Oaths, Proteſtations, Declarations, and Covenants, as for other ends, ſo for the ſafety of the Kings Perſon, 'tis not<g ref="char:EOLhyphen"/>withſtanding endeavoured to make the world beleeve, that
+<pb n="7" facs="tcp:160038:4"/> there is a great doubt made in Parliament, whether the Kings ſafety is not incompatible with the ſafety of the Com<g ref="char:EOLhyphen"/>mon-wealth. And is this now compatible with the Honour of Parliament?</p>
+            <p>In fine, I doe not know, whether the Scotch may like this Speech of M<hi rend="sup">r</hi> 
+               <hi>Challenor,</hi> for the matter of it, as being a malle<g ref="char:EOLhyphen"/>able Anſwer; yea, ſuch as in the opinion of Intelligent Rea<g ref="char:EOLhyphen"/>ders, fortifieth their Papers not a little. But I much miſtake, if it have a favourable aſpect from the Parliament; either for the matter, or for divers acrimonious expreſſions in it, which as I cannot eaſily beleeve to have beene ſpoken in that honourable Senate: ſo none (I thinke) will like well provoking Lan<g ref="char:EOLhyphen"/>guage, but thoſe who deſire to put the Kingdomes by the ears: from which miſery, and from all the Plots both of Sectaries and Malignants, Good Lord deliver us, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
